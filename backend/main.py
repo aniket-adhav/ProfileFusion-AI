@@ -1,17 +1,4 @@
-"""CLI entry point — mirrors the Eightfold spec flags exactly.
 
-  python -m backend.main \
-      --csv sample_inputs/recruiter.csv \
-      --ats sample_inputs/ats.json \
-      --pdf sample_inputs/resume.pdf \
-      --txt sample_inputs/resume.txt \
-      --github https://github.com/aniket-adhav \
-      --linkedin https://www.linkedin.com/in/aniket-adhav-a70182312/ \
-      --config backend/config/default_projection.json
-
-Writes profile.json, merge_report.json, validation_report.json, and projection
-outputs into the current working directory.
-"""
 import argparse
 import json
 import os
