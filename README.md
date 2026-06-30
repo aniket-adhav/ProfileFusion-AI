@@ -306,7 +306,7 @@ Watch the complete end-to-end demonstration of **ProfileFusion AI**, including:
 - Generated Reports
 - End-to-End Workflow
 
-https://github.com/aniket-adhav/ProfileFusion-AI/blob/main/assets/Aniket_Adhav_Demo.mp4
+https://github.com/aniket-adhav/ProfileFusion-AI/blob/main/assets/Aniket_Adhav_Demo1.mp4
 
 ---
 
