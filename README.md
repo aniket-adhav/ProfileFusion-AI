@@ -102,7 +102,7 @@ CSV / ATS / PDF / TXT / GitHub / LinkedIn
 
 # Getting Started
 
-## 1. Clone the Repository
+## Clone the Repository
 
 ```bash
 
@@ -113,7 +113,7 @@ cd ProfileFusion-AI
 
 ---
 
-## 2. Backend Setup
+## Backend Setup
 
 Navigate to the backend directory and install the required dependencies.
 
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 
 ---
 
-## 3. Run the CLI
+## Run the CLI
 
 Choose one of the following examples depending on the workflow you want to demonstrate.
 
