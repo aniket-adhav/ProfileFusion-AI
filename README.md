@@ -315,12 +315,6 @@ A complete walkthrough demonstrating:
 
 ---
 
-# License
-
-Licensed under the MIT License.
-
----
-
 # Contact
 
 **Aniket Adhav**
