@@ -25,7 +25,7 @@ Transform structured and unstructured candidate data into a single canonical pro
   - [Frontend Setup](#frontend-setup)
   - [Run CLI](#run-cli)
   - [Run the Web Dashboard](#run-the-web-dashboard)
-- [Output Reports](#output-reports)
+- [Generated Reports](#generated-reports)
 - [Project Structure](#project-structure)
 - [Design Highlights](#design-highlights)
 - [Future Improvements](#future-improvements)
@@ -231,7 +231,7 @@ Or explore the deployed version:
 
 ---
 
-## 6. Expected Output
+## 6. Generated Reports
 
 After a successful execution, the following files are generated inside:
 
