@@ -200,10 +200,9 @@ backend/output/
 
 ## Frontend Setup
 
-Open a **new terminal** and navigate to the frontend directory.
+Open a **new terminal** from the project root (`ProfileFusion-AI`) and install the frontend dependencies.
 
 ```bash
-cd ProfileFusion-AI
 cd frontend
 npm install
 ```
@@ -211,6 +210,8 @@ npm install
 ---
 
 ## Run the Web Dashboard
+
+Start the React development server.
 
 ```bash
 npm run dev
