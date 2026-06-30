@@ -298,15 +298,21 @@ ProfileFusion-AI
 ---
 # Demo Video
 
-Watch the complete end-to-end demonstration of **ProfileFusion AI**, including:
+Watch the complete end-to-end demonstration of **ProfileFusion AI**.
+
+🎥 **Project Demo:**
+
+[https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/watch?v=y8VKvdwh2SA)
+
+---
+
+The demo includes:
 
 - Web Dashboard
 - CLI Execution
 - Candidate Harmonization Pipeline
 - Generated Reports
 - End-to-End Workflow
-
-https://github.com/aniket-adhav/ProfileFusion-AI/blob/main/assets/Aniket_Adhav_Demo1.mp4
 
 ---
 
