@@ -19,7 +19,7 @@ Transform structured and unstructured candidate data into a single canonical pro
   - [Pipeline Workflow](#pipeline-workflow)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-  - [Clone Repository](#clone-repository)
+  - [Clone Repository](#clone-the-repository)
   - [Backend Setup](#backend-setup)
   - [Test with Your Own Data](#test-with-your-own-data)
   - [Frontend Setup](#frontend-setup)
@@ -199,7 +199,7 @@ backend/output/
 ---
 
 
-## 4. Frontend Setup
+## Frontend Setup
 
 Open a **new terminal** and navigate to the frontend directory.
 
@@ -211,7 +211,7 @@ npm install
 
 ---
 
-## 5. Run the Web Dashboard
+## Run the Web Dashboard
 
 ```bash
 npm run dev
@@ -231,7 +231,7 @@ Or explore the deployed version:
 
 ---
 
-## 6. Generated Reports
+## Generated Reports
 
 After a successful execution, the following files are generated inside:
 
