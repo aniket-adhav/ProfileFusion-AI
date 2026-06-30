@@ -24,7 +24,7 @@ Transform structured and unstructured candidate data into a single canonical pro
   - [Test with Your Own Data](#test-with-your-own-data)
   - [Frontend Setup](#frontend-setup)
   - [Run CLI](#run-cli)
-  - [Run Web UI](#run-web-ui-optional)
+  - [Run the Web Dashboard](#run-the-web-dashboard)
 - [Output Reports](#output-reports)
 - [Project Structure](#project-structure)
 - [Design Highlights](#design-highlights)
@@ -107,7 +107,6 @@ CSV / ATS / PDF / TXT / GitHub / LinkedIn
 ```bash
 
 git clone https://github.com/aniket-adhav/ProfileFusion-AI.git
-
 cd ProfileFusion-AI
 
 ```
@@ -121,7 +120,6 @@ Navigate to the backend directory and install the required dependencies.
 ```bash
 
 cd backend
-
 pip install -r requirements.txt
 
 ```
