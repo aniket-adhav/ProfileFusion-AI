@@ -296,12 +296,9 @@ ProfileFusion-AI
 - Cloud-native deployment
 
 ---
-
 # Demo Video
 
-🎥 **Coming Soon**
-
-A complete walkthrough demonstrating:
+Watch the complete end-to-end demonstration of **ProfileFusion AI**, including:
 
 - Web Dashboard
 - CLI Execution
@@ -309,7 +306,7 @@ A complete walkthrough demonstrating:
 - Generated Reports
 - End-to-End Workflow
 
-> Replace this section later with your GitHub video or YouTube link.
+https://github.com/aniket-adhav/ProfileFusion-AI/blob/main/assets/Aniket_Adhav_Demo.mp4
 
 ---
 
