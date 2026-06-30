@@ -31,8 +31,7 @@ Built for the Eightfold AI internship assignment. Designed to be read, graded, a
 9. [Testing](#testing)
 10. [Optional Web UI](#optional-web-ui)
 11. [Project Structure](#project-structure)
-12. [License](#license)
-13. [Contact](#contact)
+12. [Contact](#contact)
 
 ---
 
@@ -292,11 +291,6 @@ assets/           # architecture diagram & static reference assets
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
