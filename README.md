@@ -105,8 +105,11 @@ CSV / ATS / PDF / TXT / GitHub / LinkedIn
 ## 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/aniket-adhav/ProfileFusion-AI.git
+
 cd ProfileFusion-AI
+
 ```
 
 ---
@@ -116,8 +119,11 @@ cd ProfileFusion-AI
 Navigate to the backend directory and install the required dependencies.
 
 ```bash
+
 cd backend
+
 pip install -r requirements.txt
+
 ```
 
 ---
