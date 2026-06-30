@@ -23,14 +23,13 @@ Transform structured and unstructured candidate data into a single canonical pro
   - [Backend Setup](#backend-setup)
   - [Test with Your Own Data](#test-with-your-own-data)
   - [Frontend Setup](#frontend-setup)
-  - [Run CLI](#run-cli)
+  - [Run CLI](#run-the-cli)
   - [Run the Web Dashboard](#run-the-web-dashboard)
 - [Generated Reports](#generated-reports)
 - [Project Structure](#project-structure)
 - [Design Highlights](#design-highlights)
 - [Future Improvements](#future-improvements)
 - [Demo Video](#demo-video)
-- [License](#license)
 - [Contact](#contact)
 
 ---
