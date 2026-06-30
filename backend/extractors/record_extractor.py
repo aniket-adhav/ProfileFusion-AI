@@ -1,6 +1,4 @@
-"""Extract candidate fields from raw source payloads into a uniform "record"
-shape that the merge engine can combine across sources.
-"""
+
 import re
 
 from backend.normalizers.email import normalize_email
