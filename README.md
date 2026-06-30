@@ -132,11 +132,8 @@ pip install -r requirements.txt
 
 Choose one of the following examples depending on the workflow you want to demonstrate.
 
-All generated reports are written to:
+All generated reports are written to: backend/output/
 
-```text
-backend/output/
-```
 
 ### Option A — Complete Pipeline (Recommended)
 
