@@ -1,0 +1,29 @@
+Aniket Adhav
++91 9657325070 | aniketadhav2006@gmail.com
+Pune
+https://github.com/aniket-adhav | https://www.linkedin.com/in/aniket-adhav-a70182312/ 
+
+PROFESSIONAL SUMMARY
+Highly motivated Computer Engineering undergraduate with a strong foundation in Data Structures & Algorithms, backend development, and full-stack web technologies. Experienced in building scalable applications using Java, Spring Boot, React, Node.js, and Python, with a proven record of academic excellence, competitive programming, and developing impactful real-world projects.
+
+SKILLS
+Java, React.js, Node.js, Express.js, Docker, Git
+
+EXPERIENCE
+EdgeVerve Systems - Trainee Engineer (Feb 2026 - Present)
+Backend training on Java and Spring Boot; building REST services and SQL integrations.
+
+SportsClub DIT - Technical Head (Dec 2024 - Present)
+Led Parakram event platform (1500+ users); QR-based payments and admin dashboard.
+
+PROJECTS
+Civic Assist Platform - Full-stack civic reporting app with geolocation, upvoting and admin analytics. (React, Node.js, Express, MongoDB)
+PDF Heading Extractor - ML pipeline for H1/H2/H3 classification using Sentence-BERT. (Python, scikit-learn)
+
+EDUCATION
+B.E. Computer Engineering, DIT Pune (Aug 2023 - Jun 2027) - CGPA 9.74/10
+
+ACHIEVEMENTS
+700+ DSA problems solved | Knight on LeetCode (1850+ rating, 290-day streak)
+2nd Runner-up, National 48-Hour Hackathon, Amity University Mumbai
+Rank 1 in College, 10/10 SGPA (Semester 1)

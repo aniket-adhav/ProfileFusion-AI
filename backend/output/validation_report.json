@@ -1,0 +1,13 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "checked_fields": [
+    "candidate_id",
+    "full_name",
+    "emails",
+    "phones",
+    "location.country",
+    "overall_confidence"
+  ]
+}

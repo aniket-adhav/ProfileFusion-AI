@@ -1,0 +1,15 @@
+{
+  "fields": [
+    { "path": "full_name", "type": "string" },
+    { "path": "emails", "type": "array" },
+    { "path": "phones", "type": "array" },
+    { "path": "location", "type": "object" },
+    { "path": "headline", "type": "string" },
+    { "path": "summary", "type": "string" },
+    { "path": "skills", "type": "array" },
+    { "path": "experience", "type": "array" },
+    { "path": "education", "type": "array" },
+    { "path": "links", "type": "object" }
+  ],
+  "on_missing": "include_null"
+}

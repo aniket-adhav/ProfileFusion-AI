@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "firstName": "Aniket",
+    "lastName": "Adhav",
+    "headline": "Backend Software Engineer Intern",
+    "emails": [
+      { "value": "Aniket.Adhav2006@gmail.com", "type": "primary" }
+    ],
+    "phones": [
+      { "value": "(+91) 96573 25070", "type": "mobile" }
+    ],
+    "location": "Pune, Maharashtra, India",
+    "linkedinUrl": "https://www.linkedin.com/in/aniket-adhav-a70182312/",
+    "githubUrl": "https://github.com/aniket-adhav",
+    "portfolio": null,
+    "yearsOfExperience": 1,
+    "skills": [
+      "Java", "Spring Boot", "Python", "FastAPI", "React.js",
+      "MongoDB", "Git", "Linux", "Docker", "REST APIs"
+    ],
+    "experience": [
+      {
+        "company": "EdgeVerve Systems",
+        "title": "Product Development Associate (Trainee)",
+        "startDate": "2026-02-01",
+        "endDate": null,
+        "summary": "Working on backend engineering training focused on Java, Spring Boot, REST APIs, SQL, object-oriented programming and clean coding."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Dr. D. Y. Patil Institute of Technology, Pune",
+        "degree": "B.E.",
+        "fieldOfStudy": "Computer Engineering",
+        "startDate": "2023-08-01",
+        "endDate": "2027-06-30",
+        "graduationYear": 2027
+      }
+    ],
+    "summary": "Computer Engineering undergraduate with strong backend development, full-stack development and DSA skills. Passionate about scalable software systems and competitive programming."
+  },
+  "source": "ats_export",
+  "exported_at": "2026-06-30T10:00:00Z"
+}

@@ -1,0 +1,294 @@
+{
+  "full_name": "Aniket Adhav",
+  "emails": [
+    "aniketadhav2006@gmail.com"
+  ],
+  "phones": [
+    "+919657325070"
+  ],
+  "location": {
+    "city": "Pune",
+    "region": "Maharashtra",
+    "country": "IN"
+  },
+  "headline": "Backend Software Engineer Intern",
+  "summary": "Computer Engineering undergraduate with strong backend development, full-stack development and DSA skills. Passionate about scalable software systems and competitive programming.",
+  "skills": [
+    {
+      "name": "Java",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "SQL",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Git",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 1.0,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": 1.0,
+      "sources": [
+        "ats_json",
+        "resume_pdf",
+        "resume_txt",
+        "github_api"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "confidence": 0.8,
+      "sources": [
+        "ats_json",
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "confidence": 1.0,
+      "sources": [
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Linux",
+      "confidence": 0.8,
+      "sources": [
+        "ats_json",
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "confidence": 1.0,
+      "sources": [
+        "ats_json",
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 1.0,
+      "sources": [
+        "resume_pdf",
+        "resume_txt",
+        "github_api"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Room Database",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Gradle",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Postman",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Keras",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "Sentence-BERT",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "C++",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "github_api"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "github_api"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": 0.8,
+      "sources": [
+        "resume_pdf",
+        "resume_txt"
+      ]
+    },
+    {
+      "name": "NLP",
+      "confidence": 0.6,
+      "sources": [
+        "resume_pdf"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "confidence": 0.6,
+      "sources": [
+        "github_api"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "EdgeVerve Systems",
+      "title": "Product Development Associate (Trainee)",
+      "start": "2026-02",
+      "end": null,
+      "summary": "Working on backend engineering training focused on Java, Spring Boot, REST APIs, SQL, object-oriented programming and clean coding."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dr. D. Y. Patil Institute of Technology, Pune",
+      "degree": "B.E.",
+      "field": "Computer Engineering",
+      "end_year": 2027
+    }
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/aniket-adhav-a70182312/",
+    "github": "https://github.com/aniket-adhav",
+    "portfolio": null,
+    "other": []
+  }
+}

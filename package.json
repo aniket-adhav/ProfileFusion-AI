@@ -1,0 +1,32 @@
+{
+  "name": "candidate-data-harmonizer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Merge recruiter CSV, ATS JSON, resume PDF, and resume DOCX into one canonical candidate profile.",
+  "scripts": {
+    "dev": "vite --config frontend/vite.config.js",
+    "build": "vite build --config frontend/vite.config.js",
+    "build:dev": "vite build --mode development --config frontend/vite.config.js",
+    "preview": "vite preview --config frontend/vite.config.js",
+    "server": "python -m backend.app",
+    "test:backend": "pytest backend/tests -q"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11",
+    "lucide-react": "^0.475.0",
+    "papaparse": "^5.5.4",
+    "pdfjs-dist": "^6.1.200",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^3.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.6",
+    "vite": "^5.4.10"
+  }
+}

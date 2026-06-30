@@ -1,0 +1,213 @@
+{
+  "record_count": 6,
+  "sources": [
+    "recruiter_csv",
+    "ats_json",
+    "resume_pdf",
+    "resume_txt",
+    "github_api",
+    "linkedin_url"
+  ],
+  "field_decisions": {
+    "full_name": {
+      "value": "Aniket Adhav",
+      "contributors": [
+        {
+          "source": "recruiter_csv",
+          "method": "csv_field",
+          "value": "Aniket S. Adhav"
+        },
+        {
+          "source": "ats_json",
+          "method": "json_field",
+          "value": "Aniket Adhav"
+        },
+        {
+          "source": "resume_pdf",
+          "method": "regex_extract",
+          "value": "Aniket Adhav"
+        },
+        {
+          "source": "resume_txt",
+          "method": "regex_extract",
+          "value": "Aniket Adhav"
+        },
+        {
+          "source": "github_api",
+          "method": "github_api",
+          "value": "Aniket Adhav"
+        },
+        {
+          "source": "linkedin_url",
+          "method": "linkedin_url",
+          "value": "Aniket Adhav A70182312"
+        }
+      ],
+      "winner": {
+        "source": "ats_json",
+        "method": "json_field",
+        "value": "Aniket Adhav"
+      }
+    },
+    "headline": {
+      "value": "Backend Software Engineer Intern",
+      "contributors": [
+        {
+          "source": "ats_json",
+          "method": "json_field",
+          "value": "Backend Software Engineer Intern"
+        },
+        {
+          "source": "resume_pdf",
+          "method": "regex_extract",
+          "value": "B.E. Computer Engineering"
+        },
+        {
+          "source": "github_api",
+          "method": "github_api",
+          "value": "Full Stack Web & Android Developer\r\n"
+        }
+      ],
+      "winner": {
+        "source": "ats_json",
+        "method": "json_field",
+        "value": "Backend Software Engineer Intern"
+      }
+    },
+    "summary": {
+      "value": "Computer Engineering undergraduate with strong backend development, full-stack development and DSA skills. Passionate about scalable software systems and competitive programming.",
+      "contributors": [
+        {
+          "source": "ats_json",
+          "method": "json_field",
+          "value": "Computer Engineering undergraduate with strong backend development, full-stack development and DSA skills. Passionate about scalable software systems and competitive programming."
+        },
+        {
+          "source": "resume_txt",
+          "method": "regex_extract",
+          "value": "Highly motivated Computer Engineering undergraduate with a strong foundation in Data Structures & Algorithms, backend development, and full-stack web technologies. Experienced in building scalable applications using Java, Spring Boot, React, Node.js, and Python, with a proven record of academic excellence, competitive programming, and developing impactful real-world projects."
+        }
+      ],
+      "winner": {
+        "source": "ats_json",
+        "method": "json_field",
+        "value": "Computer Engineering undergraduate with strong backend development, full-stack development and DSA skills. Passionate about scalable software systems and competitive programming."
+      }
+    },
+    "years_experience": {
+      "value": 1.0,
+      "contributors": [
+        {
+          "source": "recruiter_csv",
+          "method": "csv_field",
+          "value": 0.5
+        },
+        {
+          "source": "ats_json",
+          "method": "json_field",
+          "value": 1.0
+        }
+      ],
+      "winner": {
+        "source": "ats_json",
+        "method": "json_field",
+        "value": 1.0
+      }
+    },
+    "location": {
+      "value": {
+        "city": "Pune",
+        "region": "Maharashtra",
+        "country": "IN"
+      },
+      "contributors": [
+        {
+          "source": "recruiter_csv",
+          "method": "csv_field",
+          "value": {
+            "city": "Pune",
+            "region": "MH",
+            "country": "IN"
+          }
+        },
+        {
+          "source": "ats_json",
+          "method": "json_field",
+          "value": {
+            "city": "Pune",
+            "region": "Maharashtra",
+            "country": "IN"
+          }
+        },
+        {
+          "source": "resume_pdf",
+          "method": "regex_extract",
+          "value": {
+            "city": "Technology",
+            "region": "Pune",
+            "country": null
+          }
+        },
+        {
+          "source": "resume_txt",
+          "method": "regex_extract",
+          "value": {
+            "city": "Java",
+            "region": "Spring Boot",
+            "country": null
+          }
+        },
+        {
+          "source": "github_api",
+          "method": "github_api",
+          "value": {
+            "city": "Pune",
+            "region": null,
+            "country": "IN"
+          }
+        }
+      ],
+      "winner": {
+        "source": "ats_json",
+        "method": "json_field",
+        "value": {
+          "city": "Pune",
+          "region": "Maharashtra",
+          "country": "IN"
+        }
+      }
+    },
+    "emails": {
+      "items": [
+        "aniketadhav2006@gmail.com"
+      ],
+      "contributors": {
+        "aniketadhav2006@gmail.com": [
+          "recruiter_csv",
+          "resume_pdf",
+          "resume_txt"
+        ],
+        "aniket.adhav2006@gmail.com": [
+          "ats_json"
+        ]
+      }
+    },
+    "phones": {
+      "items": [
+        "+919657325070"
+      ],
+      "contributors": {
+        "+919657325070": [
+          "recruiter_csv",
+          "ats_json",
+          "resume_pdf",
+          "resume_txt"
+        ]
+      }
+    }
+  },
+  "skill_count": 31,
+  "experience_count": 1,
+  "education_count": 1,
+  "generated_at": "2026-06-30T14:22:41.272567+00:00"
+}
