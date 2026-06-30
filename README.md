@@ -5,7 +5,7 @@
 
 Transform structured and unstructured candidate data into a single canonical profile using deterministic merging, confidence scoring, provenance tracking, and configurable projection.
 
-![ProfileFusion AI](assets/Screenshot 2026-06-30 200734.png)
+![ProfileFusion AI](assets/Home.png)
 
 🌐 **Live Demo:** https://profile-fusion-ai.vercel.app
 
